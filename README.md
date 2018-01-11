@@ -1,6 +1,7 @@
 # Readings
 
 A curated list of suggested reading materials.
+NOTE: CURRENTLY UNDER CONSTRUCTION.
 
 ## Writing Code / Programming Practices
 _Description_
