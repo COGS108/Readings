@@ -1,18 +1,23 @@
 # Readings
 
-A curated list of suggested reading materials.
-NOTE: CURRENTLY UNDER CONSTRUCTION.
+A (work in progress) curated list of suggested reading materials relating to Data Science.
+
+Note that tutorial materials, and readings related to specific topics are more likely to be listed in our [Tutorials](https://github.com/COGS108/Tutorials), and not necessarily copied here.
+
+## Articles
+
+- 50 Years of Data Science, D Donoho
+- Exploratory Data Analysis, JW Tukey
+- Depth of Learning, M Buchanan
+- Points of View: Storytelling, M Krzywinski & A Cairo
 
 ## Writing Code / Programming Practices
-_Description_
 
 - Programming Principles
   - https://www.makeuseof.com/tag/basic-programming-principles/
   - https://www.makeuseof.com/tag/weird-programming-principles/
 
-
 ## Blogs
-_Description_
 
 - [Better Explained](https://betterexplained.com)
   - A good resource for accessible math explainers
@@ -24,10 +29,15 @@ _Description_
   - "These notes were developed for the course Probability and Statistics for Data Science at the
 Center for Data Science in NYU."
 
+## Textbooks
+
+- Data Science from Scrath, Joel Grus
+- Python Data Science Handbook, Jake Vanderplas
 
 ## Journals
-_Description_
 
+- Distill
+  - https://distill.pub/about/
 - GigaScience
   - https://academic.oup.com/gigascience
 - Journal of Open Source Software
