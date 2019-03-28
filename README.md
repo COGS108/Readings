@@ -10,12 +10,16 @@ Note that tutorial materials, and readings related to specific topics are more l
 - Exploratory Data Analysis, JW Tukey
 - Depth of Learning, M Buchanan
 - Points of View: Storytelling, M Krzywinski & A Cairo
+- Data Organization in Spreadsheets, K Broman & K Woo
+- Good Enough Practices in Scientific Computing, G Wilson et al
 
 ## Writing Code / Programming Practices
 
 - Programming Principles
   - https://www.makeuseof.com/tag/basic-programming-principles/
   - https://www.makeuseof.com/tag/weird-programming-principles/
+- [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html), Trey Causey (2015)
+- 
 
 ## Blogs
 
@@ -32,7 +36,7 @@ Center for Data Science in NYU."
 ## Textbooks
 
 - Data Science from Scrath, Joel Grus
-- Python Data Science Handbook, Jake Vanderplas
+- Python Data Science Handbook, Jake VanderPlas
 
 ## Journals
 
