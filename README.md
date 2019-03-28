@@ -35,7 +35,7 @@ Center for Data Science in NYU."
 
 ## Textbooks
 
-- Data Science from Scrath, Joel Grus
+- Data Science from Scratch, Joel Grus
 - Python Data Science Handbook, Jake VanderPlas
 
 ## Journals
