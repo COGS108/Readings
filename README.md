@@ -11,7 +11,7 @@ Note that tutorial materials, and readings related to specific topics are more l
 - Depth of Learning, M Buchanan
 - Points of View: Storytelling, M Krzywinski & A Cairo
 - Data Organization in Spreadsheets, K Broman & K Woo
-- Good Enough Practices in Scientific Computing, G Wilson et al
+- Good Enough Practices in Scientific Computing, G Wilson et al.
 
 ## Writing Code / Programming Practices
 
@@ -19,7 +19,7 @@ Note that tutorial materials, and readings related to specific topics are more l
   - https://www.makeuseof.com/tag/basic-programming-principles/
   - https://www.makeuseof.com/tag/weird-programming-principles/
 - [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html), Trey Causey (2015)
-- 
+
 
 ## Blogs
 
@@ -32,6 +32,8 @@ Note that tutorial materials, and readings related to specific topics are more l
 - [Probability and Statistics for Data Science](https://cims.nyu.edu/~cfgranda/pages/stuff/probability_stats_for_DS.pdf)
   - "These notes were developed for the course Probability and Statistics for Data Science at the
 Center for Data Science in NYU."
+- [Datawrapper](https://blog.datawrapper.de/)
+  - A data-visualization blog chock full of great knowledge and examples
 
 ## Textbooks
 
@@ -40,6 +42,8 @@ Center for Data Science in NYU."
 
 ## Journals
 
+- Harvard Data Science Review
+  - https://hdsr.mitpress.mit.edu/ 
 - Distill
   - https://distill.pub/about/
 - GigaScience
