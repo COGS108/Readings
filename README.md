@@ -2,7 +2,12 @@
 
 A (work in progress) curated list of suggested reading materials relating to Data Science.
 
-Note that tutorial materials, and readings related to specific topics are more likely to be listed in our [Tutorials](https://github.com/COGS108/Tutorials), and not necessarily copied here.
+There are no required readings for this course; however, if you’re interested in learning more and reading about data science topics, we recommend the following texts as supplementary to the main elements of the course:
+
+- Grus J (2019, 2nd ed) Data Science from Scratch. This book takes you into HOWs and WHYs, rather than just learning to use a library you don't really understand.  This is the harder book, but you will grow tremendously working though it. [Can be accessed for free through your UCSD login](https://library.ucsd.edu/news-events/oreilly-for-higher-education/)
+- Vanderplas, J (2023, 2nd ed) [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook). Short and too the point. Both the text and the code are freely available on Github. Learn to use standard libraries to get things done.
+
+Some older [Tutorials](https://github.com/COGS108/Tutorials) for this class exist if you'd like to see them.  
 
 ## Articles
 
