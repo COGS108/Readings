@@ -88,7 +88,6 @@ library if you don't want to buy them.
 
 - **[Good Enough Practices in Scientific Computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)** — Wilson et al. (*PLOS Comp Bio*, 2017). The realistic baseline: data management, project organization, version control, and collaboration habits any researcher can adopt this week. *(open access)*
 - **[Best Practices for Scientific Computing](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)** — Wilson et al. (*PLOS Biology*, 2014). The more ambitious companion piece: write for people first, automate repetition, test, and don't optimize before you measure. *(open access)*
-- **[Software development skills for data scientists](http://treycausey.com/software_dev_skills.html)** — Causey (2015). The five habits — modular code, documentation, version control, testing, logging — that separate analysis scripts from code other people can use. *(blog)*
 - **[PEP 8 — Style Guide for Python Code](https://peps.python.org/pep-0008/)** — van Rossum, Warsaw & Coghlan. The conventions that make Python readable to other Python programmers; skim it once, then let a linter enforce it. *(docs)*
 
 ## Visualization
